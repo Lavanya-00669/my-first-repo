@@ -1,0 +1,3 @@
+I'm Lavanya Vasupilli
+I'm pursuing BSc CS
+In DevOps hackathon class I've learned how to create a repository in GitHub and commit changes which is updates
